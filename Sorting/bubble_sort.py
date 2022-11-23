@@ -13,3 +13,6 @@ def bubble_sort(array):
 array = [2 , 4 , 7 , 1 , 9 , 6]
 bubble_sort(array)
 print(array)
+
+# Time Complexity ---> O(n^2)
+# Space Complexity ---> O(1)
